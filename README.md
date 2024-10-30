@@ -146,6 +146,7 @@
 | 이미지                                                                                                                                               | 제목                                                                           | 설명                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://www.acmicpc.net/favicon-32x32.png" height="18" />                                                                                  | [Baekjoon Online Judge <sub>KR, F</sub>](https://www.acmicpc.net)              | 프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳입니다.                                                                 |
+| <img src="https://solved.ac/favicon.ico" height="18" />                                                                                           | [solved.ac <sub>KR</sub>](https://solved.ac)              | 알고리즘 문제해결 학습의 이정표 Baekjoon Online Judge 문제들의 난이도 및 티어 정보를 제공하는 사이트입니다.                  |
 | <img src="https://codeforces.org/s/22015/favicon-96x96.png" height="18" />                                                                           | [Codeforces <sub>EN</sub>](https://codeforces.com)                             | Codeforces, 프로그래밍 대회 및 경연대회, 프로그래밍 커뮤니티.                                                                |
 | <img src="https://school.programmers.co.kr/assets/icons/favicon-ec61d910396b5fc4d7418ea44281693172c34e31d437d074f9ab5470523990fb.png" height="18" /> | [Programmers <sub>KR</sub>](https://school.programmers.co.kr/learn/challenges) | 개발자 취업의 필수 관문 코딩테스트를 철저하게 연습하고 대비할 수 있는 문제를 총망라!                                         |
 | <img src="https://codingdojang.com/static/img/favicon.ico" height="18" />                                                                            | [코딩도장 <sub>KR</sub>](https://codingdojang.com)                             | 프로그래밍 문제풀이를 통해서 코딩 실력을 수련.                                                                               |
@@ -201,7 +202,8 @@
 |        | [Next.js Docs](https://nextjs.org/docs/getting-started)  | Next.js 공식 문서        |
 |        | [Vuejs Guide](https://vuejs.org/guide/introduction.html) | Vuejs 공식 가이드        |
 |        | [Express.js <sub>KR</sub>](https://expressjs.com/ko)     | Express.js 공식 홈페이지 |
-|        | [NestJS](https://docs.nestjs.com/)                       | NestJS 공식 문서         |
+| <img src="https://docs.nestjs.com/assets/favicons/favicon-32x32.png" height="18" /> | [NestJS Docs](https://docs.nestjs.com/)                  | NestJS 공식 문서         |
+| <img src="https://docs.deno.com/favicon.ico" height="18" /> | [Deno Docs](https://docs.deno.com/)                      | Deno 공식 문서         |
 
 ### Backend Framework
 
@@ -214,7 +216,8 @@
 |        | [Flask Docs <sub>KR</sub>](https://flask-docs-kr.readthedocs.io/ko/latest)                             | Flask 공식 문서           |
 |        | [ExpressJS <sub>KR</sub>](https://expressjs.com/ko)                                                    | ExpressJS 공식 홈페이지   |
 |        | [Ruby On Rails Guide](https://guides.rubyonrails.org)                                                  | Ruby On Rails 공식 가이드 |
-|        | [NestJS](https://docs.nestjs.com/)                                                                     | NestJS 공식 문서          |
+| <img src="https://docs.nestjs.com/assets/favicons/favicon-32x32.png" height="18" /> | [NestJS Docs](https://docs.nestjs.com/)                                                                | NestJS 공식 문서          |
+| <img src="https://fastapi.tiangolo.com/ko/img/favicon.png" height="18" /> | [FastAPI Docs <sub>KR</sub>](https://fastapi.tiangolo.com/ko/)                                         | FastAPI 공식 문서          |
 
 ### Public Cloud
 
